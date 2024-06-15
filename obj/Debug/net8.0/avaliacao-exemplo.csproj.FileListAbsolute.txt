@@ -1,0 +1,14 @@
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\bin\Debug\net8.0\avaliacao-exemplo.exe
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\bin\Debug\net8.0\avaliacao-exemplo.deps.json
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\bin\Debug\net8.0\avaliacao-exemplo.runtimeconfig.json
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\bin\Debug\net8.0\avaliacao-exemplo.dll
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\bin\Debug\net8.0\avaliacao-exemplo.pdb
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.AssemblyInfoInputs.cache
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.AssemblyInfo.cs
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.dll
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\refint\avaliacao-exemplo.dll
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.pdb
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\avaliacao-exemplo.genruntimeconfig.cache
+C:\Users\sebastiao.filho\OneDrive - SENAC-SC\c#-nova\avaliacao-exemplo\obj\Debug\net8.0\ref\avaliacao-exemplo.dll
